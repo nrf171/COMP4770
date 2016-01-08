@@ -1,10 +1,11 @@
 # COMP4770
-MUN Senior Year CS Team Project - Winter 2016
+MUN COMP-4770
+Senior Year CS Team "C" Project
+Winter 2016
 
 Team Members:
 * Dean Massecar
-* _
-* _
-* _
-* _
+* Philip St.Croix
+* Tim Murray
+* Shane Butt
 
